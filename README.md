@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Fullstack JavaScript, Node.js, React, and Express**
 - 🔭 I’m working on **E-commerce development**
 - 💬 Ask me about **JavaScript, Node.js, React, Express, MongoDB, and SQL**
-- 📫 How to reach me: **[Your Email](mailto:youremail@example.com)**
+- 📫 How to reach me: **[Send Me Email](mailto:faqihsetiawan17@gmail.com)**
 
 ---
 
