@@ -1,5 +1,5 @@
-<h1 align="center">👋 Halo, Saya Faqih Rus</h1>
-<h3 align="center">Seorang Pengembang Fullstack JavaScript yang Bersemangat</h3>
+<h1 align="center">Are you trying to find out about me?e</h1>
+<h3 align="center">You Can Call Me Faqih</h3>
 
 <p align="center">
   <a href="https://www.codewars.com/users/faqih-rus">
@@ -15,9 +15,8 @@
 
 ### 🚀 Tentang Saya
 
-- 💼 Bekerja sebagai **Web Developer di PT Ide Kreatif Sejahtera Global**
-- 🌟 Keahlian utama dalam **Fullstack JavaScript**
-- 💬 Tanyakan saya tentang **JavaScript, Node.js, React, Express, MongoDB, dan SQL**
+- 💼 Saat ini saya lagi Magang di PT Ide Kreatif Sejahtera Global sebagai **Web Developer**
+- 🌟 Saya menyukai Programming dan IT Infrastruktur, dan akan terus belajar keahlian tersebut.
 - 📫 Hubungi saya melalui email: [faqihsetiawan17@gmail.com](mailto:faqihsetiawan17@gmail.com)
 - 🌐 Kunjungi website saya: [https://faqih-rus.github.io](https://faqih-rus.github.io)
 
