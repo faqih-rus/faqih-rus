@@ -1,5 +1,4 @@
-<h1 align="center">Are you trying to find out about me?e</h1>
-<h3 align="center">You Can Call Me Faqih</h3>
+<h1 align="center > Muhammad Faqih Setiawan</h1>
 
 <p align="center">
   <a href="https://www.codewars.com/users/faqih-rus">
@@ -15,10 +14,9 @@
 
 ### 🚀 Tentang Saya
 
-- 💼 Saat ini saya lagi Magang di PT Ide Kreatif Sejahtera Global sebagai **Web Developer**
 - 🌟 Saya menyukai Programming dan IT Infrastruktur, dan akan terus belajar keahlian tersebut.
-- 📫 Hubungi saya melalui email: [faqihsetiawan17@gmail.com](mailto:faqihsetiawan17@gmail.com)
-- 🌐 Kunjungi website saya: [https://faqih-rus.github.io](https://faqih-rus.github.io)
+- 📫 Email: [faqihsetiawan17@gmail.com](mailto:faqihsetiawan17@gmail.com)
+- 🌐 Personal Website: [https://faqih-rus.github.io](https://faqihinside.netlify.app)
 
 ---
 
@@ -31,8 +29,6 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ---
